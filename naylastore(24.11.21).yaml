@@ -1,0 +1,123 @@
+﻿port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+proxies:
+ 
+  - {name: 🇸🇬 nayla 01,server: 146.0.36.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 02,server: 134.195.196.184, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇸🇬 nayla 03,server: 118.107.244.112, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 04,server: 118.107.244.112, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 05,server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇸🇬 nayla 06,server: 134.195.196.3, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 07,server: 134.195.196.51, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 08,server: 134.195.196.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 09,server: 142.202.48.17, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 10,server: 134.195.196.33, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 11,server: 172.99.190.90, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇸🇬 nayla 12,server: 167.88.63.89, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 nayla 13,server: 134.195.196.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 14,server: 167.88.63.28, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 15,server: 172.99.190.186, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 16,server: 134.195.196.71, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 nayla 17,server: 134.195.196.154, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 18,server: 172.99.190.149, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 nayla 19,server: 38.39.192.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 20,server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 nayla 21,server: 159.223.38.236, port: 30987, type: ss, cipher: chacha20-ietf-poly1305, password: oRkwUHmBVKXm}  
+  - {name: 🇺🇸 nayla 21,server: 45.55.63.180, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: ddNKmUbksF5I}
+
+
+
+proxy-groups:
+
+  - name: Proxies
+    type: select
+    proxies:
+    
+      - Best Ping
+      
+      - 🇸🇬 nayla 01
+      - 🇸🇬 nayla 02
+      - 🇸🇬 nayla 03
+      - 🇸🇬 nayla 04
+      - 🇸🇬 nayla 05
+      - 🇸🇬 nayla 06
+      - 🇸🇬 nayla 07
+      - 🇸🇬 nayla 08
+      - 🇸🇬 nayla 09
+      - 🇸🇬 nayla 10
+	  - 🇸🇬 nayla 11
+      - 🇸🇬 nayla 12
+      - 🇸🇬 nayla 13
+      - 🇸🇬 nayla 14
+      - 🇸🇬 nayla 15
+      - 🇸🇬 nayla 16
+      - 🇸🇬 nayla 17
+      - 🇸🇬 nayla 18
+      - 🇸🇬 nayla 19
+      - 🇸🇬 nayla 20
+	  - 🇸🇬 nayla 21
+      - 🇺🇸 nayla 21
+
+  - name: Best Ping
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+
+      - 🇸🇬 nayla 01
+      - 🇸🇬 nayla 02
+      - 🇸🇬 nayla 03
+      - 🇸🇬 nayla 04
+      - 🇸🇬 nayla 05
+      - 🇸🇬 nayla 06
+      - 🇸🇬 nayla 07
+      - 🇸🇬 nayla 08
+      - 🇸🇬 nayla 09
+      - 🇸🇬 nayla 10
+	  - 🇸🇬 nayla 11
+      - 🇸🇬 nayla 12
+      - 🇸🇬 nayla 13
+      - 🇸🇬 nayla 14
+      - 🇸🇬 nayla 15
+      - 🇸🇬 nayla 16
+      - 🇸🇬 nayla 17
+      - 🇸🇬 nayla 18
+      - 🇸🇬 nayla 19
+      - 🇸🇬 nayla 20
+	  - 🇸🇬 nayla 21
+      - 🇺🇸 nayla 21
+
+rules:
+ - DOMAIN-SUFFIX,1password.com,DIRECT
+ - DOMAIN-SUFFIX,vultr.com,DIRECT
+ - DOMAIN-SUFFIX,mb3admin.com,DIRECT
+ - DOMAIN-SUFFIX,rixcloud.io,DIRECT
+ - DOMAIN-SUFFIX,tempestapp.io,DIRECT
+ - DOMAIN,mtalk.google.com,DIRECT
+ - DOMAIN,alt1-mtalk.google.com,DIRECT
+ - DOMAIN,alt2-mtalk.google.com,DIRECT
+ - DOMAIN,alt3-mtalk.google.com,DIRECT
+ - DOMAIN,alt4-mtalk.google.com,DIRECT
+ - DOMAIN,alt5-mtalk.google.com,DIRECT
+ - DOMAIN,alt6-mtalk.google.com,DIRECT
+ - DOMAIN,alt7-mtalk.google.com,DIRECT
+ - DOMAIN,alt8-mtalk.google.com,DIRECT
+ - DOMAIN,alt9-mtalk.google.com,DIRECT
+ - DOMAIN,captive.apple.com,DIRECT
+ - DOMAIN-SUFFIX,local,DIRECT
+ - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+ - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+ - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+ - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+ - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+ - IP-CIDR6,::1/128,DIRECT,no-resolve
+ - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+ - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+ - IP-CIDR6,fd00::/8,DIRECT,no-resolve
+ - GEOIP,IR,DIRECT
+ - MATCH,Proxies
