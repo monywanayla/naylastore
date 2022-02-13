@@ -16,7 +16,7 @@ proxies:
   - {name: nayla 07,server: 192.46.209.146, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: nayla 08,server: 172.104.206.165, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: nayla 09,server: 167.88.63.61, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: nayla 10,server: 120.197.85.73, port: 2042, type: ss, cipher: aes-256-gcm, password: 708de56e-ada7-4bab-86ce-dadd4beabd62}
+  - {name: nayla 10,server: 120.197.85.73, port: 2042, type: ss, cipher: chacha20-ietf-poly1305, password: 708de56e-ada7-4bab-86ce-dadd4beabd62}
 
 proxy-groups:
   - name: Proxies
