@@ -81,6 +81,7 @@ proxies:
   - {name: 美国(欢迎订阅Youtube破解资源君) 14, server: 134.195.196.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: 美国(欢迎订阅Youtube破解资源君) 15, server: 134.195.196.3, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: 韩国(欢迎订阅Youtube破解资源君), server: kr1.qingyun123.xyz, port: 10050, type: trojan, password: 3712e1c9-52ab-4c80-a270-7e89f67f0645, sni: kr1.qingyun123.xyz, skip-cert-verify: true, udp: true}
+  - {name: nayla 12,server: 20.228.222.107, port: 35104, type: ss, cipher: chacha20-ietf-poly1305, password: ADiOHPkgeG3O}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -163,6 +164,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -244,6 +246,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -326,6 +329,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -420,6 +424,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -506,6 +511,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: 📲 电报信息
     type: select
     proxies:
@@ -587,6 +593,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -669,6 +676,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -760,6 +768,7 @@ proxy-groups:
       - 美国(欢迎订阅Youtube破解资源君) 14
       - 美国(欢迎订阅Youtube破解资源君) 15
       - 韩国(欢迎订阅Youtube破解资源君)
+      - nayla 12
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
