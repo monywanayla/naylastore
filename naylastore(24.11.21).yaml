@@ -8,10 +8,10 @@ external-controller: 127.0.0.1:9090
 proxies:
  
   - {name: nayla 01,server: ak1134.www.getoutline.net, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: nayla 02,server: ak1102.www.getoutline.net, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: nayla 02,server: ak1137.www.getoutline.net, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: nayla 03,server: ak1125.www.getoutline.net, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: nayla 04,server: 172.104.206.165, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: nayla 05,server: 172.104.207.231, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: nayla 04,server: ak1136.www.getoutline.net, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: nayla 05,server: ak1142.free.www.outline.network, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: nayla 06,server: 172.104.207.231, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: nayla 07,server: 192.46.209.146, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: nayla 08,server: 172.104.206.165, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
