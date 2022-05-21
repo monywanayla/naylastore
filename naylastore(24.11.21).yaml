@@ -21,6 +21,7 @@ proxies:
   - {name: nayla 12,server: 20.228.222.107, port: 35104, type: ss, cipher: chacha20-ietf-poly1305, password: ADiOHPkgeG3O}
   - {name: nayla 13,server: 51.68.205.180, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: nayla 14,server: 52.65.254.157, port: 53271, type: ss, cipher: aes-256-gcm, password: 3b07447e-94cf-4d72-96c6-d0a539098049}
+  - {name: nayla 15,server: 20.205.2.86, port: 31393, type: ss, cipher: aes-256-gcm, password: pxuSYPVcX3}
 
 proxy-groups:
   - name: Proxies
@@ -42,6 +43,7 @@ proxy-groups:
       - nayla 12
       - nayla 13
       - nayla 14
+      - nayla 15
 
   - name: Best Ping
     type: url-test
@@ -63,6 +65,7 @@ proxy-groups:
       - nayla 12
       - nayla 13
       - nayla 14
+      - nayla 15
 
 rules:
  - DOMAIN-SUFFIX,1password.com,DIRECT
