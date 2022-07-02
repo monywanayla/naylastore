@@ -1,5 +1,4 @@
 {
-    "version": 1,
     "servers": [
         {
             // Server UUID to distinguish between servers when updating.
