@@ -13,9 +13,7 @@
       "enabled": false
     },
     "udpdns": false
-  }
-  ]
-[  
+  }, 
   {
     "server": "34.97.37.28",
     "server_port": 10257,
