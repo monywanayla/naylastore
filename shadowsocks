@@ -1,24 +1,17 @@
-{
-    "servers": [
-        {
-            // Server UUID to distinguish between servers when updating.
-            "remarks": "Osaka",
-            "server": "34.97.37.28",
-            "server_port": 19691,
-            "password": "aN0UXjJxMt",
-            "method": "aes-256-gcm",
-            "plugin": "xxx",
-            "plugin_opts": "xxxxx"
-        },
-        // Another server
-        {   
-            "remarks": "Osaka2",
-            "server": "34.97.37.28",
-            "server_port": 10257,
-            "password": "BTF8G2gglR",
-            "method": "aes-256-gcm",
-            "plugin": "xxx",
-            "plugin_opts": "xxxxx"
-        }
-    ], 
-}
+[
+  {
+    "server": "34.97.37.28",
+    "server_port": 19691,
+    "password": "aN0UXjJxMt",
+    "method": "aes-256-gcm",
+    "remarks": "🇯🇵 Osaka (NaylaStore)End at 11:00PM",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
