@@ -14,4 +14,19 @@
     },
     "udpdns": false
   }
+  {
+    "server": "34.97.37.28",
+    "server_port": 10257,
+    "password": "BTF8G2gglR",
+    "method": "aes-256-gcm",
+    "remarks": "🇯🇵 Osaka (NaylaStore)End at 11:00PM",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
 ]
