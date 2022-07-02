@@ -3,7 +3,6 @@
     "servers": [
         {
             // Server UUID to distinguish between servers when updating.
-          
             "remarks": "Osaka",
             "server": "34.97.37.28",
             "server_port": 19691,
@@ -13,8 +12,7 @@
             "plugin_opts": "xxxxx"
         },
         // Another server
-        {
-            
+        {   
             "remarks": "Osaka2",
             "server": "34.97.37.28",
             "server_port": 10257,
@@ -23,6 +21,5 @@
             "plugin": "xxx",
             "plugin_opts": "xxxxx"
         }
-    ],
-    
+    ], 
 }
