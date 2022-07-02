@@ -26,7 +26,6 @@
     ],
     // The above fields are mandatory.
     // Optional fields for data usage:
-    "bytes_used" : xxxxxxxx,
-    "bytes_remaining":xxxxxxxx 
+    
     // You may add other custom fields in the root object.
 }
