@@ -7,7 +7,7 @@ external-controller: 127.0.0.1:9090
 
 proxies:
  
- - {name: nayla 01,server: 34.129.57.242, port: 26403, type: ss, cipher: aes-256-gcm, password: b1jsgkzpt1}
+ - {name: nayla 01,server: 34.92.41.44, port: 18263, type: ss, cipher: aes-256-gcm, password: xmrEh1D34A}
  - {name: nayla 02,server: 34.129.57.242, port: 17637, type: ss, cipher: aes-256-gcm, password: tmNeEBv5Z8}
  - {name: nayla 03,server: 34.129.57.242, port: 29929, type: ss, cipher: aes-256-gcm, password: QHkNmLDnX1}
 
