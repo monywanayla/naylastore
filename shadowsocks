@@ -28,5 +28,13 @@
       "enabled": false
     },
     "udpdns": false
-  }
+  },
+  {          
+            "id": "01c1519d-bae9-42f6-9b07-270b8ea8abc7",
+            "remarks": "🇭🇰 HK (NaylaStore)End at 00:20PM",
+            "server": "35.241.89.48",
+            "server_port": 39596,
+            "network": "tcp",
+            "security": ""
+        }
 ]
