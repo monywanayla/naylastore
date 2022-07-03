@@ -9,7 +9,7 @@ proxies:
  
  - {name: nayla 01,server: 34.92.41.44, port: 18263, type: ss, cipher: aes-256-gcm, password: xmrEh1D34A}
  - {name: nayla 02,server: 34.129.57.242, port: 17637, type: ss, cipher: aes-256-gcm, password: tmNeEBv5Z8}
- - {name: 🇭🇰 NaylaStore,server: 35.241.89.48, port: 24127, type: ss, cipher: aes-256-gcm, password: kJDiJi9GOs}
+ - {name: 🇭🇰NaylaStore,server: 35.241.89.48, port: 24127, type: ss, cipher: aes-256-gcm, password: kJDiJi9GOs}
 
 proxy-groups:
   - name: Proxies
@@ -19,7 +19,7 @@ proxy-groups:
       
       - nayla 01
       - nayla 02
-      - 🇭🇰 NaylaStore
+      - 🇭🇰NaylaStore
       
 
   - name: Best Ping
@@ -30,7 +30,7 @@ proxy-groups:
 
       - nayla 01
       - nayla 02
-      - 🇭🇰 NaylaStore
+      - 🇭🇰NaylaStore
       
 rules:
  - DOMAIN-SUFFIX,1password.com,DIRECT
