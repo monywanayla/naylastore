@@ -1,10 +1,10 @@
  [
   {
-    "server": "34.101.91.164",
-    "server_port": 40398,
-    "password": "BElo5kQGno",
+    "server": "34.97.103.49",
+    "server_port": 46625,
+    "password": "lnpHgws9k5",
     "method": "aes-256-gcm",
-    "remarks": "🇮🇩 Jakarta (NaylaStore)End at 06:00PM",
+    "remarks": "🇯🇵 Osaka (NaylaStore)End at 11:30PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -15,11 +15,11 @@
     "udpdns": false
   }, 
   {
-    "server": "34.101.91.164",
-    "server_port": 36882,
-    "password": "pmcgxnhvrW",
+    "server": "34.97.103.49",
+    "server_port": 50243,
+    "password": "lWucNrTQia",
     "method": "aes-256-gcm",
-    "remarks": "🇮🇩 Jakarta (NaylaStore)End at 06:00PM",
+    "remarks": "🇯🇵 Osaka (NaylaStore)End at 11:30PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
