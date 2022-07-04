@@ -28,5 +28,20 @@
       "enabled": false
     },
     "udpdns": false
+  },
+  {
+    "server": "34.94.239.153",
+    "server_port": 20705,
+    "password": "kuPF8x1k7R",
+    "method": "aes-256-gcm",
+    "remarks": "🇺🇸 LA (NaylaStore)End at 05:00PM",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
   }
 ]
