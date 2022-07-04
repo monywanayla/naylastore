@@ -18,7 +18,7 @@
     "server": "35.183.166.251",
     "server_port": 49077,
     "password": "u8NpXEX88Slc",
-    "method": "chacha20-ietf-poly1305
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇨🇦 Montreal (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
@@ -33,7 +33,7 @@
     "server": "18.219.86.190",
     "server_port": 36392,
     "password": "hlY1018AGFam",
-    "method": "chacha20-ietf-poly1305
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇺🇸 Ohio (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
@@ -48,7 +48,7 @@
     "server": "44.235.160.48",
     "server_port": 41251,
     "password": "Xirw1wYCSRRO",
-    "method": "chacha20-ietf-poly1305
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇺🇸 Oregon (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
@@ -63,7 +63,7 @@
     "server": "44.207.13.132",
     "server_port": 3009,
     "password": "Jdq2l6FbX3GB",
-    "method": "chacha20-ietf-poly1305
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇺🇸 Virginia (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
