@@ -15,11 +15,11 @@
     "udpdns": false
   }, 
   {
-    "server": "35.241.78.58",
-    "server_port": 26633,
-    "password": "QFj6GleQlJ",
+    "server": "34.97.213.216",
+    "server_port": 34373,
+    "password": "BjrFXG50nq",
     "method": "aes-256-gcm",
-    "remarks": "🇭🇰 HK (NaylaStore)End at 00:30PM",
+    "remarks": "🇯🇵 Osaka (NaylaStore)End at 06:00PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
