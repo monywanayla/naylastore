@@ -1,10 +1,10 @@
  [
   {
-    "server": "35.220.217.82",
-    "server_port": 8080,
-    "password": "NaylaMwa01",
-    "method": "aes-256-gcm",
-    "remarks": "🇭🇰 HK (NaylaStore)End at 00:15PM",
+    "server": "34.84.29.18",
+    "server_port": 59993,
+    "password": "cnSS7Q0lk8ih",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇯🇵 Tokyo (NaylaStore)End at 05:30PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
