@@ -1,10 +1,10 @@
  [
   {
-    "server": "34.84.29.18",
-    "server_port": 59993,
-    "password": "cnSS7Q0lk8ih",
+    "server": "34.129.145.146",
+    "server_port": 56602,
+    "password": "VrdEhq0Y69Ef",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇯🇵 Tokyo (NaylaStore)End at 05:30PM",
+    "remarks": "🇦🇺 Melbourne (NaylaStore)End at 11:00PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
