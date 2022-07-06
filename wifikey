@@ -74,22 +74,7 @@
     },
     "udpdns": false
   },
-   {
-    "server": "35.220.221.63",
-    "server_port": 57091,
-    "password": "k203Zd22z7uU",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇭🇰 HK (NaylaStore)End at 00:15PM",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-   {
+ {
     "server": "206.189.43.62",
     "server_port": 11828,
     "password": "0zj3CT5AmUjC",
@@ -103,5 +88,20 @@
       "enabled": false
     },
     "udpdns": false
-    } 
+    },
+ {
+    "server": "34.128.110.91",
+    "server_port": 34904,
+    "password": "m3Mi78qRlu9h",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇮🇩 Jakarta (NaylaStore)End at 11:30AM",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
  ]
