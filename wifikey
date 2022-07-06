@@ -88,5 +88,19 @@
       "enabled": false
     },
     "udpdns": false
-  }
+  },
+   {
+    "server": "206.189.43.62",
+    "server_port": 11828,
+    "password": "0zj3CT5AmUjC",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇬 Singapore (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
  ]
