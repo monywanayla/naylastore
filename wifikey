@@ -73,5 +73,20 @@
       "enabled": false
     },
     "udpdns": false
+  },
+   {
+    "server": "35.220.221.63",
+    "server_port": 57091,
+    "password": "k203Zd22z7uU",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇭🇰 HK (NaylaStore)End at 00:15PM",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
   }
  ]
