@@ -90,11 +90,11 @@
     "udpdns": false
     },
  {
-    "server": "35.220.152.132",
-    "server_port": 34758,
-    "password": "zQMZsElV5qCB",
+    "server": "34.101.51.204",
+    "server_port": 21011,
+    "password": "qpq31NVXROsz",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇭🇰 Hong Kong (NaylaStore)End at 00:15PM",
+    "remarks": "🇮🇩 Jakarta (NaylaStore)End at 11:00PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
