@@ -75,11 +75,11 @@
     "udpdns": false
   },
  {
-    "server": "ca02-ss.sshocean.net",
-    "server_port": 8388,
-    "password": "NDA4Y",
-    "method": "8chacha20-ietf-poly1305",
-    "remarks": "🇨🇦 Toronto (NaylaStore)",
+    "server": "us-ss.racevpn.com",
+    "server_port": 2443,
+    "password": "QSE673b0gr",
+    "method": "aes-256-gcm",
+    "remarks": "🇺🇸 NY (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
