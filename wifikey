@@ -90,11 +90,11 @@
     "udpdns": false
     },
  {
-    "server": "34.81.139.221",
-    "server_port": 16744,
-    "password": "ZqjJWuLdsEbA",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇹🇼 Taiwan (NaylaStore)End at  00:30PM",
+    "server": "sg-full.privateip.net",
+    "server_port": 8443,
+    "password": "cd197bf0-de8b-4edd-9171-b0658c61a03c",
+    "method": "aes-256-gcm",
+    "remarks": "🇸🇬 Singapore (NaylaStore) 12.7.22",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
