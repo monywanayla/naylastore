@@ -75,7 +75,7 @@
     "udpdns": false
   },
  {
-    "server": "ca01-ss.sshocean.net",
+    "server": "ca02-ss.sshocean.net",
     "server_port": 8388,
     "password": "NDA4Y",
     "method": "8chacha20-ietf-poly1305",
