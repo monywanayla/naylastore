@@ -77,8 +77,8 @@
  {
     "server": "ca01-ss.sshocean.net",
     "server_port": 8388,
-    "password": "ZjdkZ",
-    "method": "chacha20-ietf-poly1305",
+    "password": "NDA4Y",
+    "method": "8chacha20-ietf-poly1305",
     "remarks": "🇨🇦 Toronto (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
