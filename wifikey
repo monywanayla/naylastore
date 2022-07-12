@@ -75,11 +75,11 @@
     "udpdns": false
   },
  {
-    "server": "us-ss.racevpn.com",
-    "server_port": 2443,
-    "password": "QSE673b0gr",
+    "server": "34.97.47.213",
+    "server_port": 47867,
+    "password": "zy8ArODIZq",
     "method": "aes-256-gcm",
-    "remarks": "🇺🇸 NY (NaylaStore)",
+    "remarks": "Osaka (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
