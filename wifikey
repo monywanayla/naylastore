@@ -133,5 +133,20 @@
       "enabled": false
     },
     "udpdns": false
+  },
+  {
+    "server": "sg5-ss.sshstores.net",
+    "server_port": 8388,
+    "password": "cWoTF",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇬 Singapore2 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
   }
  ]
