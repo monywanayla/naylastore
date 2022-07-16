@@ -15,21 +15,6 @@
     "udpdns": false
   }, 
   {
-    "server": "uk01-ss.sshocean.net",
-    "server_port": 8388,
-    "password": "ZGY1N",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧 London2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  }, 
-  {
     "server": "35.183.166.251",
     "server_port": 49077,
     "password": "u8NpXEX88Slc",
