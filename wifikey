@@ -90,26 +90,11 @@
     "udpdns": false
   },
   {
-    "server": "143.244.151.204",
-    "server_port": 3637,
-    "password": "FVIB3LApCnQZ",
+    "server": "174.138.63.114",
+    "server_port": 19580,
+    "password": "zTqGwetyh8Cx",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 Miami (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "192.81.215.141",
-    "server_port": 49502,
-    "password": "Axzy9ifDYipS",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 New York (NaylaStore)",
+    "remarks": "🇺🇸 New Jersey (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -135,9 +120,9 @@
     "udpdns": false
   },
   {
-    "server": "sg5-ss.sshstores.net",
-    "server_port": 8388,
-    "password": "cWoTF",
+    "server": "157.230.241.147",
+    "server_port": 27329,
+    "password": "vqRRi7w3RDNT",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇸🇬 Singapore2 (NaylaStore)",
     "route": "all",
