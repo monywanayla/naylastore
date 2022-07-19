@@ -120,11 +120,11 @@
     "udpdns": false
   },
   {
-    "server": "157.230.241.147",
-    "server_port": 27329,
-    "password": "vqRRi7w3RDNT",
+    "server": "34.143.203.64",
+    "server_port": 6731,
+    "password": "KZEtvNUmXDPq",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇸🇬 Singapore2 (NaylaStore)",
+    "remarks": "🇸🇬 Singapore (NaylaStore)End at 10:15PM",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
