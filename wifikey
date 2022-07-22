@@ -32,7 +32,7 @@
   {
     "server": "ca-ss.racevpn.com",
     "server_port": 2443,
-    "password": "UlLmfhEFTY",
+    "password": "qbJlzEbBVG",
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Montreal2 (NaylaStore)",
     "route": "all",
@@ -170,6 +170,21 @@
     "password": "P0WrRRzys9VK",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇸🇬 Singapore (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "jp-ss.racevpn.com",
+    "server_port": 2443,
+    "password": "1gu146L4eU",
+    "method": "aes-256-gcm",
+    "remarks": "🇯🇵 Tokyo (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
