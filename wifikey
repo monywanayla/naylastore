@@ -104,6 +104,66 @@
     },
     "udpdns": false
   },
+  {
+    "server": "52.42.43.39",
+    "server_port": 20554,
+    "password": "LqSZ8M7ViGmc",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 300GB1 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "52.42.43.39",
+    "server_port": 20554,
+    "password": "LUCKiaYgQBei",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 300GB2 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "34.218.209.110",
+    "server_port": 59175,
+    "password": "p5opWfFOBFJE",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 300GB3 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "34.218.209.110",
+    "server_port": 59175,
+    "password": "D5rmAvPgjEUB",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 300GB4 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
  {
     "server": "128.199.156.20",
     "server_port": 19048,
