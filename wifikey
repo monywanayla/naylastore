@@ -29,22 +29,7 @@
     },
     "udpdns": false
   },
-  {
-    "server": "ca-ss.racevpn.com",
-    "server_port": 2443,
-    "password": "qbJlzEbBVG",
-    "method": "aes-256-gcm",
-    "remarks": "🇨🇦 Montreal2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
- {
+   {
     "server": "18.219.86.190",
     "server_port": 36392,
     "password": "hlY1018AGFam",
@@ -89,22 +74,7 @@
     },
     "udpdns": false
   },
-  {
-    "server": "174.138.63.114",
-    "server_port": 19580,
-    "password": "zTqGwetyh8Cx",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 New Jersey (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
+    {
     "server": "52.42.43.39",
     "server_port": 20554,
     "password": "LqSZ8M7ViGmc",
@@ -163,35 +133,5 @@
       "enabled": false
     },
     "udpdns": false
-  },
- {
-    "server": "128.199.156.20",
-    "server_port": 19048,
-    "password": "P0WrRRzys9VK",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇸🇬 Singapore (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "jp-ss.racevpn.com",
-    "server_port": 2443,
-    "password": "1gu146L4eU",
-    "method": "aes-256-gcm",
-    "remarks": "🇯🇵 Tokyo (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  }
+  } 
  ]
