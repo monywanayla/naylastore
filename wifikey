@@ -103,6 +103,21 @@
       "enabled": false
     },
     "udpdns": false
+  },
+  {
+    "server": "34.87.237.118",
+    "server_port": 54928,
+    "password": "1aq6HkJxlapM",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇺 Sydney (NaylaStore)End at 04:45AM",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
   }
   
  ]
