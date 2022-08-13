@@ -75,11 +75,11 @@
     "udpdns": false
   },
      {
-    "server": "52.42.43.39",
-    "server_port": 20554,
-    "password": "LUCKiaYgQBei",
+    "server": "167.172.135.90",
+    "server_port": 14117,
+    "password": "71P1p59Uam8N",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 300GB2 (NaylaStore)",
+    "remarks": "🇺🇸 1 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -90,11 +90,11 @@
     "udpdns": false
   },
   {
-    "server": "us-full.privateip.net",
-    "server_port": 8443,
-    "password": "71ce2389-97d2-4d49-894d-ef9aff5aa0fd",
-    "method": "aes-256-gcm",
-    "remarks": "🇺🇸 (NaylaStore)",
+    "server": "143.244.151.204",
+    "server_port": 10297,
+    "password": "hwwLSsblA7wO",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 2 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -103,5 +103,6 @@
       "enabled": false
     },
     "udpdns": false
-  } 
+  }
+  
  ]
