@@ -105,11 +105,11 @@
     "udpdns": false
   },
   {
-    "server": "34.87.237.118",
-    "server_port": 54928,
-    "password": "1aq6HkJxlapM",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇦🇺 Sydney (NaylaStore)End at 04:45AM",
+    "server": "64.225.21.84",
+    "server_port": 47146,
+    "password": "BfsTEBxpsj",
+    "method": "aes-256-gcm",
+    "remarks": "🇺🇸 3 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
