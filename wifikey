@@ -74,42 +74,12 @@
     },
     "udpdns": false
   },
-     {
-    "server": "20.169.41.135",
-    "server_port": 26818,
-    "password": "DPTGyuDRwiF2",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 US1 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
   {
-    "server": "20.169.41.135",
-    "server_port": 26818,
-    "password": "XyIvtVQVOkim",
+    "server": "20.117.171.99",
+    "server_port": 51326,
+    "password": "IfyQi10tphks",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 US2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "64.225.21.84",
-    "server_port": 47146,
-    "password": "BfsTEBxpsj",
-    "method": "aes-256-gcm",
-    "remarks": "🇺🇸 3 (NaylaStore)",
+    "remarks": "🇬🇧 London (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
