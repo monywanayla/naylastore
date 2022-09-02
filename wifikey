@@ -103,36 +103,7 @@
       "enabled": false
     },
     "udpdns": false
-  },
-  {
-    "server": "20.100.177.212",
-    "server_port": 21255,
-    "password": "wM2ZhbVrKQkm",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇴 Norway1 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "20.100.177.212",
-    "server_port": 21255,
-    "password": "doDmXaiXrIbi",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇴 Norway2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
   }
+ 
   
  ]
