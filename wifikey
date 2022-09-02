@@ -105,9 +105,9 @@
     "udpdns": false
   },
   {
-    "server": "20.107.41.18",
-    "server_port": 60420,
-    "password": "0dR5jjhqXGIk",
+    "server": "20.0.45.109",
+    "server_port": 14147,
+    "password": "mw7Ymrwpd6LP",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇬🇧 London1 (NaylaStore)",
     "route": "all",
@@ -120,9 +120,9 @@
     "udpdns": false
   },
   {
-    "server": "20.107.41.18",
-    "server_port": 60420,
-    "password": "braAZv6atiAg",
+    "server": "20.0.45.109",
+    "server_port": 14147,
+    "password": "8k9C2ZKWcuMK",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇬🇧 London2 (NaylaStore)",
     "route": "all",
