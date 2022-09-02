@@ -124,7 +124,7 @@
     "server_port": 60420,
     "password": "braAZv6atiAg",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧 London1 (NaylaStore)",
+    "remarks": "🇬🇧 London2 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
