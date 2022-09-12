@@ -15,10 +15,10 @@
     "udpdns": false
   }, 
   {
-    "server": "35.183.166.251",
-    "server_port": 49077,
-    "password": "u8NpXEX88Slc",
-    "method": "chacha20-ietf-poly1305",
+    "server": "ca-ss.racevpn.com",
+    "server_port": 2443,
+    "password": "G8lmktqEzc",
+    "method": "aes-256-gcm",
     "remarks": "🇨🇦 Montreal (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
