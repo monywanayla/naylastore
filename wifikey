@@ -45,11 +45,11 @@
     "udpdns": false
   },
  {
-    "server": "44.235.160.48",
-    "server_port": 41251,
+    "server": "us-ss.racevpn.com",
+    "server_port": 2443,
     "password": "Xirw1wYCSRRO",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 Oregon (NaylaStore)",
+    "method": "1pdx7zK4Jj",
+    "remarks": "🇺🇸 US2 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
