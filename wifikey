@@ -15,11 +15,41 @@
     "udpdns": false
   }, 
   {
+    "server": "159.65.56.236",
+    "server_port": 14564,
+    "password": "1yuL3otkVl",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 London2 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }, 
+  {
     "server": "ca-ss.racevpn.com",
     "server_port": 2443,
     "password": "G8lmktqEzc",
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Montreal (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "165.227.46.199",
+    "server_port": 59680,
+    "password": "g57OiKV6VF",
+    "method": "aes-256-gcm",
+    "remarks": "🇨🇦 Montreal2 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -59,13 +89,57 @@
     },
     "udpdns": false
   },
- 
+ {
+    "server": "137.184.9.167",
+    "server_port": 52685,
+    "password": "Xirw1wYCSRRO",
+    "method": "0KLaeXog6k",
+    "remarks": "🇺🇸 US3 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
   {
     "server": "sg-ss.racevpn.com",
     "server_port": 2443,
     "password": "vUIDgpnNCU",
     "method": "aes-256-gcm",
     "remarks": "🇸🇬 Singapore (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "128.199.162.183",
+    "server_port": 50883,
+    "password": "UiDqcPKga2",
+    "method": "aes-256-gcm",
+    "remarks": "🇸🇬 Singapore2 (NaylaStore)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "138.68.87.216",
+    "server_port": 36759,
+    "password": "t8h21o6N0o",
+    "method": "aes-256-gcm",
+    "remarks": "🇩🇪 Germany (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
