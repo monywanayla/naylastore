@@ -1,8 +1,8 @@
  [
   {
-    "server": "uk-full.privateip.net",
+    "server": "uk-ss.racevpn.com",
     "server_port": 8443,
-    "password": "7fd25045-b66d-488f-9446-af5b57bf8568",
+    "password": "2zjnDo6oqz",
     "method": "aes-256-gcm",
     "remarks": "🇬🇧 London (NaylaStore)",
     "route": "all",
@@ -14,25 +14,11 @@
     },
     "udpdns": false
   }, 
-  {
-    "server": "159.65.56.236",
-    "server_port": 14564,
-    "password": "1yuL3otkVl",
-    "method": "aes-256-gcm",
-    "remarks": "🇬🇧 London2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  }, 
+  
   {
     "server": "ca-ss.racevpn.com",
     "server_port": 2443,
-    "password": "G8lmktqEzc",
+    "password": "QWXbRAECUf",
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Montreal (NaylaStore)",
     "route": "all",
@@ -44,25 +30,11 @@
     },
     "udpdns": false
   },
-  {
-    "server": "165.227.46.199",
-    "server_port": 59680,
-    "password": "g57OiKV6VF",
-    "method": "aes-256-gcm",
-    "remarks": "🇨🇦 Montreal2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-   {
-    "server": "us-full.privateip.net",
-    "server_port": 8443,
-    "password": "a358bf9b-f468-46fa-bc8c-6ca986c4bdc7",
+
+ {
+    "server": "us-ss.racevpn.com",
+    "server_port": 2443,
+    "password": "3uXSm0wUV5",
     "method": "aes-256-gcm",
     "remarks": "🇺🇸 US1 (NaylaStore)",
     "route": "all",
@@ -74,42 +46,12 @@
     },
     "udpdns": false
   },
- {
-    "server": "us-ss.racevpn.com",
-    "server_port": 2443,
-    "password": "Xirw1wYCSRRO",
-    "method": "1pdx7zK4Jj",
-    "remarks": "🇺🇸 US2 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
- {
-    "server": "137.184.9.167",
-    "server_port": 52685,
-    "password": "Xirw1wYCSRRO",
-    "method": "0KLaeXog6k",
-    "remarks": "🇺🇸 US3 (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
   {
-    "server": "sg-ss.racevpn.com",
+    "server": "sg3-ss.racevpn.com",
     "server_port": 2443,
-    "password": "vUIDgpnNCU",
+    "password": "Hzd4k6omuX",
     "method": "aes-256-gcm",
-    "remarks": "🇸🇬 Singapore (NaylaStore)",
+    "remarks": "🇸🇬 Singapore1 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -120,9 +62,9 @@
     "udpdns": false
   },
   {
-    "server": "128.199.162.183",
-    "server_port": 50883,
-    "password": "UiDqcPKga2",
+    "server": "sg-full.privateip.net",
+    "server_port": 8443,
+    "password": "ad473729-2f5d-4787-88c4-3c0454871260",
     "method": "aes-256-gcm",
     "remarks": "🇸🇬 Singapore2 (NaylaStore)",
     "route": "all",
@@ -133,20 +75,6 @@
       "enabled": false
     },
     "udpdns": false
-  },
-  {
-    "server": "138.68.87.216",
-    "server_port": 36759,
-    "password": "t8h21o6N0o",
-    "method": "aes-256-gcm",
-    "remarks": "🇩🇪 Germany (NaylaStore)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
   }
+  
  ]
