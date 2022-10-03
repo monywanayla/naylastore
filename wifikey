@@ -47,11 +47,11 @@
     "udpdns": false
   },
   {
-    "server": "sg3-ss.racevpn.com",
-    "server_port": 2443,
-    "password": "Hzd4k6omuX",
-    "method": "aes-256-gcm",
-    "remarks": "🇸🇬 Singapore1 (NaylaStore)",
+    "server": "13.115.111.191",
+    "server_port": 4301,
+    "password": "BCgVrzIl9D6K",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇯🇵 Japan1 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -62,11 +62,11 @@
     "udpdns": false
   },
   {
-    "server": "34.151.90.38",
-    "server_port": 60905,
-    "password": "sMMw43fq89xF",
+    "server": "13.115.111.191",
+    "server_port": 4301,
+    "password": "rzMGaq36U3C1",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇸🇬 Singapore2 (NaylaStore)",
+    "remarks": "🇯🇵 Japan2 (NaylaStore)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
